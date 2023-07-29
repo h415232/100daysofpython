@@ -9,8 +9,8 @@ This is a documentation of projects completed
 |   3 | Beginner   | Treasure Island     | Simple text-based adventure game |
 |   4 | Beginner   | Rock-Paper-Scissors | Simple text-based rock-paper-scissors |
 |   5 | Beginner   | Password Generator  | Generates hard and randomized password |
-
-
+|   6 | Beginner   | None                | |
+|   7 | Beginner   | Hangman             | Text-based Hangman game |
 
 
 
