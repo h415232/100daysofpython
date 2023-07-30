@@ -14,6 +14,7 @@ This is a documentation of projects completed
 |   8 | Beginner   | Caesar Cipher       | Implementation of Ceasar Ciper encryption and decryption |
 |   9 | Beginner   | Silent Bidding      | Text-based silent bidding |
 |  10 | Beginner   | Simple Calculator   | Text-based calculator |
+|  11 | Beginner   | Blackjack           | [Capstone] Simplified text-based Blackjack game |
 
 
 
