@@ -12,6 +12,7 @@ This is a documentation of projects completed
 |   6 | Beginner   | None                | |
 |   7 | Beginner   | Hangman             | Text-based Hangman game |
 |   8 | Beginner   | Caesar Cipher       | Implementation of Ceasar Ciper encryption and decryption |
+|   9 | Beginner   | Silent Bidding      | Text-based silent bidding |
 
 
 
