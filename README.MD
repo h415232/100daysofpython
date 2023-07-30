@@ -16,7 +16,7 @@ This is a documentation of projects completed
 |  10 | Beginner   | Simple Calculator   | Text-based calculator |
 |  11 | Beginner   | Blackjack           | [Capstone] Simplified text-based Blackjack game |
 |  12 | Beginner   | Number Guessing Game| Text based number guessing game |
-
+|  13 | Beginner   | None                | |
 
 
 
