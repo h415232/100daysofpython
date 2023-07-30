@@ -17,6 +17,6 @@ This is a documentation of projects completed
 |  11 | Beginner   | Blackjack           | [Capstone] Simplified text-based Blackjack game |
 |  12 | Beginner   | Number Guessing Game| Text based number guessing game |
 |  13 | Beginner   | None                | |
-
+|  14 | Beginner   | Higher Lower Game   | Text based version of Higher-Lower game |
 
 
