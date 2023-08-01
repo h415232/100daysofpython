@@ -18,6 +18,6 @@ This is a documentation of projects completed
 |  12 | Beginner   | Number Guessing Game| Text-based number guessing game |
 |  13 | Beginner   | None                | |
 |  14 | Beginner   | Higher Lower Game   | Text-based version of Higher-Lower game |
-|  15 | Beginner   | Coffee Maker        | Text-based coffee maker with resource management |
-
+|  15 | Beginner   | Coffee Maker        | Text-based coffee maker with resource management, written in Procedural paradigm |
+|  16 | Beginner   | Coffee Maker OOP    | Text-based coffee maker with resource management, written in OOP paradigm | 
 
