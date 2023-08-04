@@ -22,3 +22,4 @@ This is a documentation of projects completed
 |  16 | Beginner      | Coffee Maker OOP    | Text-based coffee maker with resource management, written in OOP paradigm | 
 |  17 | Beginner      | True or False Quiz  | Text-based True or False questions implemented in OOP paradigm |
 |  18 | Intermediate  | Hirsh Dot Paint     | Generating Hirsh Dot Painting using Python Turtle | 
+|  19 | Intermediate  | Turtle Race Betting | 2D Turtle race betting using Python Turtle | 
