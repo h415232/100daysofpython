@@ -23,3 +23,4 @@ This is a documentation of projects completed
 |  17 | Beginner      | True or False Quiz  | Text-based True or False questions implemented in OOP paradigm |
 |  18 | Intermediate  | Hirsh Dot Paint     | Generating Hirsh Dot Painting using Python Turtle | 
 |  19 | Intermediate  | Turtle Race Betting | 2D Turtle race betting using Python Turtle | 
+|  20 | Intermediate  | Snake (Part 1)      | Implementation of Classic Snake via Python Turtle (Part 1/2) |
