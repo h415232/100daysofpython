@@ -26,3 +26,4 @@ This is a documentation of projects completed
 |  20 | Intermediate  | Snake (Part 1/2)    | Implementation of Classic Snake via Python Turtle (Part 1/2) |
 |  21 | Intermediate  | Snake (Part 2/2)    | Implementation of Classic Snake via Python Turtle (Part 2/2) |
 |  22 | Intermediate  | Pong Game           | Implementation of Pong via Python Turtle |
+|  23 | Intermediate  | Turtle Crossing     | [Capstone] Turtle Crossing game via Python Turtle |
