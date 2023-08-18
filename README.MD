@@ -28,3 +28,4 @@ This is a documentation of projects completed
 |  22 | Intermediate  | Pong Game           | Implementation of Pong via Python Turtle |
 |  23 | Intermediate  | Turtle Crossing     | [Capstone] Turtle Crossing game via Python Turtle |
 |  24 | Intermediate  | File I/O in Python  | File I/O in Python, Snake game with High Score, and Mail Merge Challenge |
+|  25 | Intermediate  | US State Game       | Implementation of U.S. State Game via Python Turtle and Processing CSV files using Pandas |
